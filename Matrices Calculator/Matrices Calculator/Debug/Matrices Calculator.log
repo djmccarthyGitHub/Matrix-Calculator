@@ -1,1 +1,16 @@
-﻿
+﻿  Matrices Calculator.cpp
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(78): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(78): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(91): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(91): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(121): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(121): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(134): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(134): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(164): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(164): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(177): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(177): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(281): warning C4715: 'subtractMatrix': not all control paths return a value
+c:\users\david\source\repos\matrices calculator\matrices calculator\matrices calculator.cpp(254): warning C4715: 'addMatrix': not all control paths return a value
+  Matrices Calculator.vcxproj -> C:\Users\david\source\repos\Matrices Calculator\Debug\Matrices Calculator.exe
